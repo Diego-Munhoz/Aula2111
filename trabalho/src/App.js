@@ -1,10 +1,10 @@
 import './App.css';
-import Conversor from './components/Conversor';
+import Votacao from './components/Votacao';
 
 function App() {
   return (
     <div className="App">
-      <Conversor/>
+      <Votacao/>
     </div>
   );
 }
