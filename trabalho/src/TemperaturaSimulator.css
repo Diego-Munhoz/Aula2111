@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&family=Open+Sans:wght@300;400;500;600&family=Poppins:wght@100;200;300;400&family=Raleway:wght@200;300;400;500;600;700&display=swap');
+*{
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+body{
+    padding: 80px 250px;
+}
+h1{
+    padding-bottom: 40px;
+    font-weight: 700;
+    font-size: 40px;
+}
+p{
+    font-size: 13px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 290px;
+    margin-bottom: 10px;
+}
+input{
+    width: 400px;
+    height: 35px;
+    padding-left: 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #F2DBCE;
+    margin-bottom: 40px;
+}
+button{
+    width: 250px;
+    height: 35px;
+    background-color: #F28C0F;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+}
+h2{
+    margin: 30px 0 30px 0;
+    font-size: 25px;
+}
+.resultado{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+h3{
+    font-size: 20px;
+}
+span{
+    font-size: 30px;
+}

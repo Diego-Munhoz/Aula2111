@@ -1,10 +1,10 @@
 import './App.css';
-import Votacao from './components/Votacao';
+import TemperaturaSimulator from './components/TemperaturaSimulator';
 
 function App() {
   return (
     <div className="App">
-      <Votacao/>
+      <TemperaturaSimulator/>
     </div>
   );
 }
